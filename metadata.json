@@ -1,0 +1,6 @@
+{
+  "name": "DecideNow - Pure Decision Engine",
+  "description": "Zero-text decision making mobile app delivering binary YES/NO verdicts, quantitative decision scores, and confidence metrics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
